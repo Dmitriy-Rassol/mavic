@@ -1,0 +1,32 @@
+{
+  "name": "gulp-template",
+  "version": "1.0.0",
+  "description": "gulp сборка",
+  "main": "index.js",
+  "scripts": {
+    "gulp": "gulp",
+    "build": "gulp build",
+    "images": "gulp images",
+    "webp": "gulp webpic",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dmitriy Rassolenko",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.14",
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-uglify-es": "^2.0.0",
+    "gulp-webp": "^4.0.1",
+    "jquery": "^3.6.0",
+    "stylelint-config-recommended": "^4.0.0"
+  },
+  "dependencies": {
+    "normalize.scss": "^0.1.0"
+  }
+}
