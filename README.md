@@ -1,4 +1,4 @@
-# [mavic](https://dmitriy-rassol.github.io/mavic/app)
+# [Mavic](https://dmitriy-rassol.github.io/mavic/app)
 ## Лендинг квадрокоптера
 ![image](https://github.com/Dmitriy-Rassol/mavic/assets/52157280/816dedff-1c7c-4e7f-bee9-1048af61c65e)
 ![image](https://github.com/Dmitriy-Rassol/mavic/assets/52157280/e3881c33-93e2-452e-b19b-054a6eb6cf44)
